@@ -1,8 +1,4 @@
-# Supermarket-Analysis
 # Supermarket Sales Analysis
-
-## Project Overview
-
 This project analyzes supermarket sales data using **Python** for data cleaning and exploratory data analysis (EDA), and **Power BI** for building interactive dashboards. The goal is to provide valuable business insights into sales performance, customer behavior, product profitability, and branch performance to support data-driven decision-making.
 
 ---
